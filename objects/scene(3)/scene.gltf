@@ -1,0 +1,444 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 62723,
+      "max": [
+        0.986240029335022,
+        0.986240029335022,
+        0.9980900287628174
+      ],
+      "min": [
+        -0.986240029335022,
+        -0.9735699892044067,
+        -0.1950799971818924
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 752676,
+      "componentType": 5126,
+      "count": 62723,
+      "max": [
+        0.998063325881958,
+        0.998063325881958,
+        0.9969772696495056
+      ],
+      "min": [
+        -0.998063325881958,
+        -0.9998071193695068,
+        -0.9987802505493164
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 93768,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1505352,
+      "componentType": 5126,
+      "count": 65533,
+      "max": [
+        0.986240029335022,
+        0.986240029335022,
+        0.1641400009393692
+      ],
+      "min": [
+        -0.986240029335022,
+        -0.9842699766159058,
+        -0.9980900287628174
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2291748,
+      "componentType": 5126,
+      "count": 65533,
+      "max": [
+        0.998063325881958,
+        0.998559296131134,
+        0.9987813234329224
+      ],
+      "min": [
+        -0.998063325881958,
+        -0.9998494982719421,
+        -0.9988089203834534
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 375072,
+      "componentType": 5125,
+      "count": 97230,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3078144,
+      "componentType": 5126,
+      "count": 2071,
+      "max": [
+        -0.353659987449646,
+        0.33869999647140503,
+        -0.26502999663352966
+      ],
+      "min": [
+        -0.9490799903869629,
+        -0.4212700128555298,
+        -0.9271100163459778
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3102996,
+      "componentType": 5126,
+      "count": 2071,
+      "max": [
+        -0.37195849418640137,
+        0.33290037512779236,
+        -0.2768990695476532
+      ],
+      "min": [
+        -0.9573537707328796,
+        -0.416060209274292,
+        -0.9276975393295288
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 763992,
+      "componentType": 5125,
+      "count": 3105,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3127848,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9698699712753296,
+        0.9698699712753296,
+        0.2622700035572052
+      ],
+      "min": [
+        -0.9698699712753296,
+        -0.9749199748039246,
+        -0.2598400115966797
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3914232,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9998494982719421,
+        0.9998494982719421,
+        0.9991432428359985
+      ],
+      "min": [
+        -0.9998494982719421,
+        -0.9998418092727661,
+        -0.9991447925567627
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 776412,
+      "componentType": 5125,
+      "count": 97599,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4700616,
+      "componentType": 5126,
+      "count": 6539,
+      "max": [
+        -0.02054000087082386,
+        -0.9210000038146973,
+        0.22939999401569366
+      ],
+      "min": [
+        -0.22127999365329742,
+        -0.9744099974632263,
+        -0.20669999718666077
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4779084,
+      "componentType": 5126,
+      "count": 6539,
+      "max": [
+        0.79937744140625,
+        0.03339013829827309,
+        0.9632376432418823
+      ],
+      "min": [
+        -0.6772111058235168,
+        -0.9994370341300964,
+        -0.8999571800231934
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1166808,
+      "componentType": 5125,
+      "count": 9807,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "VyrianStudios (https://sketchfab.com/vynatic)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/pokeball-9b6a97ead28041a48496dd1a57b2ea39",
+      "title": "Pokeball"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1206036,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4857552,
+      "byteOffset": 1206036,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6063588,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8000000715255737,
+          0.0017172677908092737,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "White",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Gray",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.07323545962572098,
+          0.07323545962572098,
+          0.07323545962572098,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Pokeball_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Pokeball_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Pokeball_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Pokeball_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Pokeball_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "matrix": [
+        1.3676599999999999,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.3676599999999999,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.3676599999999999,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Pokeball"
+    },
+    {
+      "mesh": 0,
+      "name": "Pokeball_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Pokeball_1"
+    },
+    {
+      "mesh": 2,
+      "name": "Pokeball_1"
+    },
+    {
+      "mesh": 3,
+      "name": "Pokeball_2"
+    },
+    {
+      "mesh": 4,
+      "name": "Pokeball_2"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
